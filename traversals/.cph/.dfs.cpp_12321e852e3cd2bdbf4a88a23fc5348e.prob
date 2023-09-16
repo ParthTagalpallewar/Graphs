@@ -1,0 +1,1 @@
+{"name":"Local: dfs","url":"/home/parth/Algorithms/Graphs/traversals/dfs.cpp","tests":[{"id":1684891278946,"input":"5 7\n1 2 1\n1 3 2\n2 4 3\n2 3 4\n3 4 5\n4 5 6\n3 5 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/parth/Algorithms/Graphs/traversals/dfs.cpp","group":"local","local":true}

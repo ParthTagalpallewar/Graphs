@@ -1,0 +1,1 @@
+{"name":"Local: shortest_path_bfs","url":"/home/parth/Algorithms/Graphs/tree_questions/shortest_path_bfs.cpp","tests":[{"id":1688358837558,"input":"3\na1 h8\na1 c2\nh8 c3","output":"6\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/parth/Algorithms/Graphs/tree_questions/shortest_path_bfs.cpp","group":"local","local":true}

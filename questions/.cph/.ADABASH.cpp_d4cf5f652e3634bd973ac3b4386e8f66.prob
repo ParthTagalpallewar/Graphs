@@ -1,0 +1,1 @@
+{"name":"Local: ADABASH","url":"/home/parth/Algorithms/Graphs/questions/ADABASH.cpp","tests":[{"id":1685523435970,"input":"6 3\n1 2\n3 4\n5 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/parth/Algorithms/Graphs/questions/ADABASH.cpp","group":"local","local":true}

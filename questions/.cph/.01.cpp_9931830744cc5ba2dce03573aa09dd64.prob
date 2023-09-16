@@ -1,0 +1,1 @@
+{"name":"Local: 01","url":"/home/parth/Algorithms/Graphs/questions/01.cpp","tests":[{"id":1684923625754,"input":"4 3\nABE\nCFG\nBDH\nABC\n0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/parth/Algorithms/Graphs/questions/01.cpp","group":"local","local":true}

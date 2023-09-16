@@ -1,0 +1,1 @@
+{"name":"Local: dikjastra","url":"/home/parth/Algorithms/Graphs/algorithms/dikjastra.cpp","tests":[{"id":1685512977028,"input":"9\n1 2 1\n1 3 5\n2 3 2\n2 4 2\n2 5 1\n3 5 2\n4 5 3\n5 6 2\n4 6 1\n4 5 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/parth/Algorithms/Graphs/algorithms/dikjastra.cpp","group":"local","local":true}
